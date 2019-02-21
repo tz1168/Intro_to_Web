@@ -1,0 +1,22 @@
+h1{
+    color:brown;
+    background-color: black
+}
+
+span{
+    background-color: darksalmon;
+    
+}
+
+.smalltitle{
+    color:#cc6666;
+}
+
+.listcolor{
+    background-color:#f2d9d9;
+}
+
+p{
+  padding: 5px;
+  color:darkred;
+}
